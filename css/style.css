@@ -102,8 +102,8 @@ img {
 
 @media (max-width: 991.98px) {
   .site-header .navbar {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 }
 
@@ -114,13 +114,13 @@ img {
 @media (max-width: 991.98px) {
   .site-header .navbar .navbar-nav {
     background-color: #DFD7C3;
-    padding: 20px;
+    padding: 10px;
   }
 }
 
 .site-header .navbar .nav-item {
   color: red;
-  font-size: 1.125rem;
+  font-size: 1.12rem;
   margin-right: 9px;
   margin-left: 9px;
 }
@@ -150,7 +150,7 @@ img {
 
 @media (min-width: 992px) {
   .site-header .navbar .nav-item .nav-link {
-    color: black;position: relative;
+    color: #747474;position: relative;
   }
   .site-header .navbar .nav-item .nav-link.active::before, .site-header .navbar .nav-item .nav-link:hover::before {
     content: "";
@@ -476,7 +476,7 @@ img {
 .blog-post .entry-media .entry-meta-category a {
   color: #BC5E49;
   font-weight: 600;
-  font-family: "Roboto";
+  font-family: "Verdana";
   line-height: 28px;
 }
 
@@ -539,7 +539,7 @@ img {
   color: #BC5E49;
   letter-spacing: 2.1px;
   text-transform: uppercase;
-  font-family: "Roboto";
+  font-family: "Verdana";
   margin-bottom: 9px;
 }
 
@@ -597,7 +597,7 @@ img {
 }
 
 .navigation.post-navigation .nav-title {
-  font-family: "Playfair Display";
+  font-family: "Verdana";
   font-weight: 700;
   font-size: 1rem;
 }
@@ -751,7 +751,7 @@ p.has-drop-cap:not(:focus):first-letter {
 --------------------------------------------------------------*/
 .price {
   font-size: 1rem;
-  font-family: "Roboto";
+  font-family: "Verdana";
   font-weight: bold;
   color: #BC5E49;
   margin-bottom: 16px;
@@ -889,7 +889,7 @@ p.has-drop-cap:not(:focus):first-letter {
 
 .accordion .card .card-header a::before {
   content: "\f106";
-  font-family: "Font Awesome 5 Free";
+  font-family: "Verdana";
   font-weight: 900;
   position: absolute;
   right: 0;
@@ -1092,7 +1092,7 @@ p.has-drop-cap:not(:focus):first-letter {
 .pricing-table-item .pricing-table__price {
   margin-bottom: 1rem;
   font-weight: 700;
-  font-family: "Playfair Display";
+  font-family: "Verdana";
 }
 
 .pricing-table-item .pricing-table__price .pricing-table__amount {
@@ -1109,7 +1109,7 @@ p.has-drop-cap:not(:focus):first-letter {
   display: inline;
   font-size: 1.25rem;
   color: #999999;
-  font-family: "Roboto";
+  font-family: "Verdana";
 }
 
 .pricing-table-item .pricing-table__features {
@@ -1209,7 +1209,7 @@ p.has-drop-cap:not(:focus):first-letter {
   color: red;
   margin-left: 60px;
   margin-top: 13px;
-  font-family: "Playfair Display";
+  font-family: "Verdana";
 }
 
 .cnns-comment-subscription {
@@ -1283,7 +1283,7 @@ p.has-drop-cap:not(:focus):first-letter {
 .comment-author, .comment_container-author {
   font-size: 1.0625rem;
   display: block;
-  font-family: "Playfair Display";
+  font-family: "Verdana";
   margin: 0 0 10px;
 }
 
@@ -1326,7 +1326,7 @@ p.has-drop-cap:not(:focus):first-letter {
   border-radius: 2px;
   color: #6c757d;
   display: inline-block;
-  font-family: "Playfair Display";
+  font-family: "Verdana";
   font-weight: 500;
   padding: .2em .65em;
   margin-left: -1px;
@@ -1373,7 +1373,7 @@ p.has-drop-cap:not(:focus):first-letter {
   display: block;
   margin-top: -10px;
   margin-bottom: 0.5rem;
-  font-family: "Playfair Display";
+  font-family: "Verdana";
 }
 
 .comment-metadata a {
@@ -1445,7 +1445,7 @@ article.comment-body {
 }
 
 .comment-reply-title {
-  font-family: "Playfair Display";
+  font-family: "Verdana";
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: h2;
@@ -1545,7 +1545,7 @@ body.has-no-comments .comment-respond {
 
 .widget .widget-title {
   font-size: 1rem;
-  font-family: "Playfair Display";
+  font-family: "Verdana";
   font-weight: 700;
   margin-bottom: 1rem;
   color: #999999;
@@ -1649,7 +1649,7 @@ body.has-no-comments .comment-respond {
 
 .widget_rss ul li a.rsswidget {
   font-size: 1.2rem;
-  font-family: "Playfair Display";
+  font-family: "Verdana";
   font-weight: 700;
   line-height: 1.4;
   margin-bottom: 0.5rem;
@@ -2303,7 +2303,7 @@ body.has-no-comments .comment-respond {
   font-size: calc(1.5rem + 3vw);
   line-height: 50px;
   font-weight: bold;
-  font-family: "Roboto";
+  font-family: "Verdana";
 }
 
 @media (min-width: 1200px) {
@@ -2327,7 +2327,7 @@ body.has-no-comments .comment-respond {
 }
 
 .cormorant-garamond-family {
-  font-family: "Cormorant Garamond", Sans-serif;
+  font-family: "Verdana", Sans-serif;
   font-weight: bold;
   font-style: italic;
 }
@@ -2366,7 +2366,7 @@ body.has-no-comments .comment-respond {
 }
 
 .base-font-family {
-  font-family: "Roboto";
+  font-family: "Verdana";
 }
 
 .montserrat-family {
@@ -2455,7 +2455,7 @@ body.has-no-comments .comment-respond {
   font-size: 100px;
   font-weight: 500;
   width: 100%;
-  font-family: 'Heebo';
+  font-family: 'Verdana';
 }
 
 @media (min-width: 992px) {
@@ -2691,7 +2691,7 @@ body.has-no-comments .comment-respond {
 
 .footer-form {
   color: #747474;
-  font-family: "Roboto";
+  font-family: "Verdana";
   border-width: 3px;
   font-weight: bold;
 }
@@ -2767,4 +2767,12 @@ input:-webkit-autofill-hover {
 
 .z-index-4 {
   z-index: 4;
+}
+
+body{
+  font-family:Georgia;
+}
+
+style{
+  font-family:Georgia;
 }
