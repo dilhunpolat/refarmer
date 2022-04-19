@@ -93,13 +93,6 @@ img {
   }
 }
 
-@media (min-width: 992px) {
-  .site-header .navbar {
-    padding-top: 25px;
-    padding-bottom: 25px;
-  }
-}
-
 @media (max-width: 991.98px) {
   .site-header .navbar {
     padding-top: 10px;
@@ -329,21 +322,18 @@ img {
 
 @media (max-width: 991.98px) {
   .site-footer .footer-widgets {
-    padding-top: 80px;
-    padding-bottom: 60px;
+    padding-top: 20px;
   }
 }
 
 @media (min-width: 992px) {
   .site-footer .footer-widgets {
-    padding-top: 100px;
-    padding-bottom: 95px;
+    padding-top: 20px;
   }
 }
 
 .site-footer .footer-widgets .footer-widget {
   font-weight: 500;
-  margin-bottom: 25px;
 }
 
 .site-footer .footer-widgets .footer-widget .widget-title {
